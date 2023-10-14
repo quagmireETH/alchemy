@@ -10,7 +10,7 @@ function Vision() {
           aims to unlock the untapped potential of decentralized finance for the
           masses <br />
           <br />
-          The mysterious allure of alchemy is mirrored in our crypto coin's
+          The mysterious allure of alchemy is mirrored in our crypto coin&apos;s
           ability to create value through the fusion of advanced cryptography
           and decentralized systems
         </p>

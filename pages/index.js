@@ -14,7 +14,7 @@ export default function Home() {
             Just as alchemists aimed to unlock hidden potentials, our crypto
             coin aims to unlock the untapped potential of decentralized finance
             for the masses <br /><br />
-            The mysterious allure of alchemy is mirrored in our crypto coin's
+            The mysterious allure of alchemy is mirrored in our crypto coin&apos;s
             ability to create value through the fusion of advanced cryptography
             and decentralized systems
           </p>

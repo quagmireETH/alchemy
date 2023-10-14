@@ -8,7 +8,7 @@ function Footer() {
         <p className="text-center mt-10 text-3xl w-5/6">
           We invite you to embark on an alchemical journey with us. Join us in
           unlocking the secrets of prosperity and transformation. Together,
-          we'll forge a future where every transaction holds the promise of
+          we&apos;ll forge a future where every transaction holds the promise of
           boundless wealth. Will you heed the call and join our alchemical
           revolution?
         </p>

@@ -9,8 +9,8 @@ function Tokenomics() {
 
       <div className="flex justify-center items-center">
         <div className="border-2 border-[#CFC297] rounded-3xl mt-10 py-6 px-20 bg-[#1C1C1E] max-[475px]:px-10 max-[400px]:px-4">
-          <li className="text-3xl mb-4">Supply: 1 billion</li>
-          <li className="text-3xl mb-4">Decimals: 18</li>
+          <li className="text-3xl mb-4">Supply : 1 billion</li>
+          <li className="text-3xl mb-4">Decimals : 18</li>
           <li className="text-3xl mb-4">Liquidity locked at 20k MC</li>
           <li className="text-3xl mb-4">Tax 3/3</li>
           <li className="text-3xl">100% LP (fair launch)</li>
