@@ -16,9 +16,21 @@ function Vision() {
         </p>
       </div>
 
-      <div className="flex justify-around items-center mt-20 max-[850px]:justify-center">
-        <img className="w-[500px] rounded-2xl max-[1100px]:w-[400px] max-[435px]:w-[350px]" src="/40.png" alt="" />
-        <img className="w-[500px] rounded-2xl max-[1100px]:w-[400px] max-[850px]:hidden" src="/41.png" alt="" />
+      <div className="flex justify-around items-center mt-20 max-[850px]:justify-center z-20">
+        <img
+          className="w-[500px] rounded-2xl z-20 max-[1100px]:w-[400px] max-[435px]:w-[350px]"
+          src="/40.png"
+          alt=""
+        />
+        <img
+          className="w-[500px] rounded-2xl z-20 max-[1100px]:w-[400px] max-[850px]:hidden"
+          src="/41.png"
+          alt=""
+        />
+      </div>
+
+      <div className="flex justify-center items-center z-0 -mt-10">
+        <img className="w-96 z-0 max-[1100px]:w-[350px] max-[850px]:hidden" src="/alchemyyy.jpg" alt="" />
       </div>
     </div>
   );

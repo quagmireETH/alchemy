@@ -28,7 +28,7 @@ export default function Home() {
 
       <Vision />
 
-      <div className="flex justify-center items-center pt-12 pb-32">
+      <div className="flex justify-center items-center -mt-14 pb-32">
         <div className="border-2 border-[#CFC297] w-3/4" />
       </div>
 
