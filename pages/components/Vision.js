@@ -2,7 +2,7 @@ import React from "react";
 
 function Vision() {
   return (
-    <div className="h-full pb-44">
+    <div className="h-full pb-44" id="vision">
       <div className="flex flex-col justify-center items-center">
         <p className="text-5xl font-bold">Our Vision</p>
         <p className="text-center mt-10 text-3xl w-5/6">
