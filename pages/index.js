@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import Vision from "./components/Vision";
+import Roadmap from "./components/Roadmap";
 import Tokenomics from "./components/Tokenomics";
 import Footer from "./components/footer";
 
@@ -13,13 +14,18 @@ export default function Home() {
           <p className="w-[700px] text-center mt-10 text-3xl max-[1170px]:w-[550px] max-[900px]:w-5/6">
             Just as alchemists aimed to unlock hidden potentials, our crypto
             coin aims to unlock the untapped potential of decentralized finance
-            for the masses <br /><br />
-            The mysterious allure of alchemy is mirrored in our crypto coin&apos;s
-            ability to create value through the fusion of advanced cryptography
-            and decentralized systems
+            for the masses <br />
+            <br />
+            The mysterious allure of alchemy is mirrored in our crypto
+            coin&apos;s ability to create value through the fusion of advanced
+            cryptography and decentralized systems
           </p>
         </div>
-        <img className="w-96 max-[1000px]:w-80 max-[900px]:hidden" src="/8-pointed-stars.jpg" alt="" />
+        <img
+          className="w-96 max-[1000px]:w-80 max-[900px]:hidden"
+          src="/8-pointed-stars.jpg"
+          alt=""
+        />
       </div>
 
       <div className="flex justify-center items-center pt-12 pb-24">
@@ -28,7 +34,13 @@ export default function Home() {
 
       <Vision />
 
-      <div className="flex justify-center items-center -mt-20 pb-32">
+      <div className="flex justify-center items-center -mt-20 pb-20">
+        <div className="border-2 border-[#CFC297] w-3/4" />
+      </div>
+
+      <Roadmap />
+
+      <div className="flex justify-center items-center pt-20 pb-32">
         <div className="border-2 border-[#CFC297] w-3/4" />
       </div>
 
